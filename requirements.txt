@@ -1,5 +1,5 @@
 langchain langchain_community langchain_huggingface faiss-cpu pypdf
-install huggingface_hub
-install streamlit
+huggingface_hub
+streamlit
 
 
