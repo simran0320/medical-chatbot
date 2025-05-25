@@ -1,5 +1,5 @@
-pip install langchain langchain_community langchain_huggingface faiss-cpu pypdf
-pip install huggingface_hub
-pip install streamlit
+pipenv install langchain langchain_community langchain_huggingface faiss-cpu pypdf
+pipenv install huggingface_hub
+pipenv install streamlit
 
 
